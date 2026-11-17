@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chatreal.github.io/sitemap.xml
